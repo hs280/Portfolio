@@ -1,0 +1,17 @@
+[
+  {
+    "name": "KRIT",
+    "path": "/projects/KRIT",
+    "image": "/projects/KRIT_image.svg"
+  },
+  {
+    "name": "Seq2Scal",
+    "path": "/projects/Seq2Scal",
+    "image": "/projects/Seq2Scal_image.svg"
+  },
+  {
+    "name": "SimpleSite",
+    "path": "/projects/SimpleSite",
+    "image": "/projects/SimpleSite_image.svg"
+  }
+]
